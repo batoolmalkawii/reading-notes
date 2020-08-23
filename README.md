@@ -13,7 +13,7 @@ Since then, I've decided to keep reminding myself with the following:
 2. It is ***Okay*** not to be perfect.
     * be flexible to yourself so you can move faster. 
 3. Uniqueness + practice = Masterpiece!
-4. ***NEVER STOP!***
+4. **NEVER STOP!**
 
 In conclusion, a growth mindset should be this:
 - [x] Embrace challenges.
