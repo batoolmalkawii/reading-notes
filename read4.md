@@ -29,3 +29,18 @@ Alongside with `<div>` tag used to divide parts of the webpage, _HTML5_ have int
 * `<header>` and `<footer>`: appears at the top and bottom of every page on the site.
 * `<nav>`: used to contain the major navigational blocks on the site.
 * `<article>`: acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+### 3. Extra Markup in HTML:
+The following is features you can use in HTML5:
+* DOCTYPES: tell browsers which version of HTML you are using.
+* COMMENTS. `<!-- -->`
+* ID attribute.
+* CLASS attribute.
+* Inline elements.
+* Block elements.
+* Grouping Text and Elements In a Block.
+* Frames.
+* <meta> tag allows you to supply all kinds of information about your web page.
+* Escape characters are used to include special characters in your pages such as <, >, and ©.
+* <div> and <span> elements allow you to group block-level and inline elements together.
+
