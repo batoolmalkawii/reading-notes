@@ -6,7 +6,7 @@ In this website, you'll find various topics realted to web development _explaine
 | Topic      |
 | :-----:|
 |[Markdown](read1.md)|
-|[GitHub Pages](read.md)|
+|[GitHub Pages](read1.md)|
 |[Choosing a Text Editor](read2.md)|
 |[Command Line and File System](read2.md)|
 |[Version Control (_Git_)](read3.md)|
