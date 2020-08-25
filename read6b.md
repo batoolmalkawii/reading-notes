@@ -44,4 +44,5 @@ These millions of tiny electric components used to process inputs and outputs fo
   + maps.
   + analysis.
   + etc..
+  
 Hardware and Software interact with each other using the circuits of the CPU.
