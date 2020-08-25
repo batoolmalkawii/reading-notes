@@ -16,5 +16,7 @@ There are 2 ways to associate the **CSS** with the HTML file: _internal_ using `
 
 
 ### 2. Color:
-_We can all agree that colors can bring anything to life!_ In web development, **CSS** is responsible for specifying the colors of the web page. The _color_ property allows the developer to specify the color of text inside an element. Color can be specified in three ways: rgb values, hex codes and color names. the foreground color the page is sepcified using `color` property while using `background-color` for background color. For people to be able to read your content, it's important to ensure that there is enough contrast between any text and the background color. 
+_We can all agree that colors can bring anything to life!_ In web development, **CSS** is responsible for specifying the colors of the web page. The _color_ property allows the developer to specify the color of text inside an element. 
+Color can be specified in three ways: rgb values, hex codes and color names. the foreground color the page is sepcified using `color` property while using `background-color` for background color. For people to be able to read your content, it's important to ensure that there is enough contrast between any text and the background color. 
+
 _Note: try to use a ***color picker*** tool that will make your life easier by helping you find the colors you want!_
