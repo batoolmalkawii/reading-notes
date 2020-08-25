@@ -30,7 +30,7 @@ These millions of tiny electric components used to process inputs and outputs fo
 * **Output:** converts information into ohysical output.
 
 ### 5. Hardware and Software:
-* **Hardware: **
+* **Hardware:**
   + circuits.
   + chips.
   + wires.
