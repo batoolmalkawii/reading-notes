@@ -5,7 +5,7 @@ So, _let's get started!_
 ### 1. Introducing CSS:
 So, what the CSS does is that it allows the developer to create rules that specify how the content of an element should appear. This will make web pages more attractive and appealing to the eye.
 CSS works by associating rules with HTML elements. These rules tells the browser how the content of specified elements should be displayed on the screen. A _CSS rule_
-contains 2 parts: a selector and a declaration. For example, in this CSS command, `p {font-family: Arial;}`, `p` is the **selector** and `font-family- is the **declaration**. 
+contains 2 parts: a selector and a declaration. For example, in this CSS command, `p {font-family: Arial;}`, `p` is the **selector** and `font-family` is the **declaration**. 
 Also, declarations contains 2 parts: property and value. `font-family` is the **property** and `Arial` is the **value**.
 However, if there are 2 or more rules that apply to the same element, the rule is chosen based on the following:
 * Last rule.
